@@ -1,19 +1,25 @@
-# Equitable AI for Dermatology
+# ResNet50_ImageNet_SkinClassifier
 
 ## Overview
-
-In this project our team is addressing the  need for inclusive dermatology AI by experimenting with developing a model that "accurately classifies 21 skin conditions across a diverse range of skin tones" (Raghavan, 2025). This project is a part of the Break Through Tech and Algorithmic Justice League Kaggle competition.
+This deep learning model classifies **skin conditions** using **ResNet50** pretrained on **ImageNet**. It is designed to be **fair, accurate, and robust** across diverse skin tones as part of the **BTT AI Kaggle Competition**.
 
 ## Model Architecture
+- **Base Model**: ResNet50 (pretrained on ImageNet, frozen during initial training)
+- **Custom Layers**:
+  - `GlobalAveragePooling2D()`
+  - `Dense(1024, activation='relu')`
+  - `Dropout(0.5)` (to reduce overfitting)
+  - `Dense(num_classes, activation='softmax')`
 
-Our solution leverages EfficientNetB0, a CNN pre-trained on ImageNet, a dataset we chose after learning about it's vast bredth of labeled skin condition images and thus great potential for training models. By employing transfer learning, we fine-tune EfficientNetB0 on the dermatology dataset provided on the AJL Kaggle competition board. 
+## Training Details
+- **Loss Function**: Sparse Categorical Crossentropy
+- **Optimizer**: Adam
+- **Metrics**: Accuracy, Weighted F1-score
+- **Epochs**: 32 (with Early Stopping & Learning Rate Reduction)
+- **Class Imbalance Handling**: `compute_class_weight()`
 
-## Data & Training
+## Performance & Evaluation
+- **Weighted F1-score** for fairness evaluation
+- **Fairness Analysis** using `MetricFrame`
+- **Grad-CAM Visualization** to interpret model decisions
 
-**Dataset:** We utilize the [AJL Kaggle dataset](https://www.kaggle.com/competitions/bttai-ajl-2025), which encompasses images representing a wide spectrum of skin tones and 21 distinct dermatological conditions.
-
-> "The dataset is a subset of the FitzPatrick17k dataset, a labeled collection of about 17,000 images depicting a variety of serious (e.g., melanoma) and cosmetic (e.g., acne) dermatological conditions with a range of skin tones scored on the FitzPatrick skin tone scale (FST). About 4500 images are in this set, representing 21 skin conditions out of the 100+ in the full FitzPatrick set" (AJL, Equitable AI for Dermatology, 2025).
-
-**Preprocessing:**
-
-**Evaluation:** Model performance is measured using a weighted F1 score
