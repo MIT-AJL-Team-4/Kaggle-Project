@@ -16,7 +16,6 @@
 # "How to do Transfer learning with Efficientnet" by [DLology](https://www.dlology.com/blog/transfer-learning-with-efficientnet/)
 # 
 # This draft was last updated on 02/22/25.
-
 # In[ ]:
 
 
