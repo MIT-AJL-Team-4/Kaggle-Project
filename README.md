@@ -9,10 +9,11 @@
 - Caroline Zouloumain
 
 **Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
-Caroline Zouloumian & Katie Wilson
+- Katie Wilson
+- Caroline Zouloumian
 
 **Initial Creation of TransferLearning_Efficient**
-Maryam Choudhury
+- Maryam Choudhury
 
 ## Overview
 
