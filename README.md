@@ -2,11 +2,11 @@
 
 ## Contributors 
 **Reasearch:**
-Maryam Choudhury 
-Jason Jiang
-Yuri Lee
-Katie Wilson
-Caroline Zouloumain
+- Maryam Choudhury 
+- Jason Jiang
+- Yuri Lee
+- Katie Wilson
+- Caroline Zouloumain
 
 **Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
 Caroline Zouloumian & Katie Wilson
