@@ -1,5 +1,19 @@
 # Equitable AI for Dermatology
 
+## Contributors 
+**Reasearch:**
+Maryam Choudhury 
+Jason Jiang
+Yuri Lee
+Katie Wilson
+Caroline Zouloumain
+
+**Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
+Caroline Zouloumian & Katie Wilson
+
+**Initial Creation of TransferLearning_Efficient**
+Maryam Choudhury
+
 ## Overview
 
 In this project our team is addressing the  need for inclusive dermatology AI by experimenting with developing a model that "accurately classifies 21 skin conditions across a diverse range of skin tones" (Raghavan, 2025). This project is a part of the Break Through Tech and Algorithmic Justice League Kaggle competition.
