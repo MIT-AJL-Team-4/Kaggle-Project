@@ -6,7 +6,8 @@
 - Jason Jiang
 - Yuri Lee
 - Katie Wilson
-- Caroline Zouloumain
+- Caroline Zouloumian
+- Marelyn Gonzalez
 
 **Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
 - Katie Wilson
