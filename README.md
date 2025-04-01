@@ -37,7 +37,7 @@ In this project our team is addressing the  need for inclusive dermatology AI by
 Our solutions leverages:
 - EfficientNetB0, a CNN pre-trained on ImageNet, a dataset we chose after learning about it's vast bredth of labeled skin condition images and thus great potential for training models. By employing transfer learning, we fine-tune EfficientNetB0 on the dermatology dataset provided on the AJL Kaggle competition board.
 
-- ResNet50 model, a pre-trained model developed by Microsoft in 2015. In particular, it is a CNN that is used for image classification. This model is also pre trained on ImageNet.
+- ResNet50, a pre-trained model developed by Microsoft in 2015. In particular, it is a CNN that is used for image classification. This model is also pre trained on ImageNet.
 
 
 ## Data & Training
