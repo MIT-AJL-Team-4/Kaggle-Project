@@ -8,6 +8,7 @@
 | Katie Wilson | GitHub Handle | Research, Model Building: Creation of EfficientNetB0_ImageClassifier and ResNet50_ImageNet_SkinClassifier |
 
 | Caroline Zouloumian  | @czouloumian | Research, Model Building |
+
 | Yuri Lee | j-yuri-lee | Research, Model Exploration: Researched EfficientNet-B7 and explored training on a filtered Fitzpatrick dataset |
 
 | Jason Jiang | GitHub Handle | Research |
