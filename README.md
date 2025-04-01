@@ -1,13 +1,15 @@
 # Equitable AI for Dermatology
 
 ## Contributors 
-**Reasearch:**
-- Maryam Choudhury 
-- Jason Jiang
-- Yuri Lee
-- Katie Wilson
-- Caroline Zouloumian
-- Marelyn Gonzalez
+| ----- | ----- | ----- |
+| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG) | **Model Building**: Creation of TransferLearning_ResNet50 |
+| Katie Wilson | GitHub Handle | Research, Model Building: Creation of EfficientNetB0_ImageClassifier and ResNet50_ImageNet_SkinClassifier |
+| Caroline Zouloumian  | @czouloumian | Research, Model Building |
+| Yuri Lee | j-yuri-lee | Research, Model Exploration: Researched EfficientNet-B7 and explored training on a filtered Fitzpatrick dataset |
+| Jason Jiang | GitHub Handle | Research |
+| Marelyn Gonzalez | @mdgo23 | Researched pre-trained models |
+---
+
 
 **Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
 - Katie Wilson
