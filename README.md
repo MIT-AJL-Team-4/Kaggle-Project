@@ -3,9 +3,9 @@
 ## Contributors 
 | ----- | ----- | ----- |
 
-| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG) | **Model Building**: Creation of TransferLearning_ResNet50 |
+| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG) | **Model Building**: Creation of ResNet50_ImageNet_SkinClassifier |
 
-| Katie Wilson | GitHub Handle | Research, Model Building: Creation of EfficientNetB0_ImageClassifier and ResNet50_ImageNet_SkinClassifier |
+| Katie Wilson | GitHub Handle | Research, Model Building: Creation of EfficientNetB0_ImageClassifier |
 
 | Caroline Zouloumian  | @czouloumian | Research, Model Building |
 
