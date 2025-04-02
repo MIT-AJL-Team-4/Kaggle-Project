@@ -4,7 +4,7 @@
 
 | Name | GitHub Handle | Contributions |
 |------|--------------|---------------|
-| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG)<br>**Model Building**: Creation of TrannsferLearning_ResNet50 |
+| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG), Fairlearn-based evaluation methods, TensorFlow and Keras. <br>**Model Building**: Creation of TrannsferLearning_ResNet50 |
 | Katie Wilson | @kwilson44 | **Research, Model Building**: Creation of EfficientNetB0_ImageClassifier and ResNet |
 | Caroline Zouloumian | @czouloumian | **Research, Model Building using ResNet** |
 | Yuri Lee | @j-yuri-lee | **Research, Model Exploration**: Researched EfficientNet-B7 and explored training on a filtered Fitzpatrick dataset |
