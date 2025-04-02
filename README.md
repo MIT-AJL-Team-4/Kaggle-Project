@@ -8,8 +8,8 @@
 | Katie Wilson | @kwilson44 | **Research, Model Building**: Creation of EfficientNetB0_ImageClassifier and ResNet |
 | Caroline Zouloumian | @czouloumian | **Research, Model Building using ResNet** |
 | Yuri Lee | @j-yuri-lee | **Research, Model Exploration**: Researched EfficientNet-B7 and explored training on a filtered Fitzpatrick dataset |
-| Jason Jiang | GitHub Handle | **Researched pre-trained models** |
-| Marelyn Gonzalez | @mdgo23 | **Researched pre-trained models** |
+| Jason Jiang | GitHub Handle | **Research:** Pre-trained models |
+| Marelyn Gonzalez | @mdgo23 | **Research:** Pre-trained models |
 
 ## Overview
 
