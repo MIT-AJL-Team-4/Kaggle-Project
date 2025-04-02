@@ -4,7 +4,7 @@
 
 | Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG) | **Model Building**: Creation of ResNet50_ImageNet_SkinClassifier |
 
-| Katie Wilson | GitHub Handle | Research, Model Building: Creation of EfficientNetB0_ImageClassifier |
+| Katie Wilson | @kwilson44 | Research, Model Building: Creation of EfficientNetB0_ImageClassifier and ResNet | **Model Building**: Creation of EfficientNetB0_ImageClassifier and ResNet|
 
 | Caroline Zouloumian  | @czouloumian | Research, Model Building using ResNet|
 
