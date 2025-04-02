@@ -4,13 +4,12 @@
 
 | Name | GitHub Handle | Contributions |
 |------|--------------|---------------|
-| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG) | **Model Building**: Creation of ResNet50_ImageNet_SkinClassifier |
+| Maryam Choudhury | @maryam-choudhury | **Research**: Comparative research on CNN architectures (EfficientNet, ResNet, VGG)<br>**Model Building**: Creation of ResNet50_ImageNet_SkinClassifier |
 | Katie Wilson | @kwilson44 | **Research, Model Building**: Creation of EfficientNetB0_ImageClassifier and ResNet |
 | Caroline Zouloumian | @czouloumian | **Research, Model Building using ResNet** |
 | Yuri Lee | @j-yuri-lee | **Research, Model Exploration**: Researched EfficientNet-B7 and explored training on a filtered Fitzpatrick dataset |
 | Jason Jiang | GitHub Handle | **Researched pre-trained models** |
 | Marelyn Gonzalez | @mdgo23 | **Researched pre-trained models** |
-
 ---
 
 **Initial Creation of EfficientNetB0_ImageNet and ResNet50_ImageNet_SkinClassifier:**
